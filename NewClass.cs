@@ -6,7 +6,8 @@ public class Class1
 	{
 		int method()
 		{
-			return 6;
+			return 10;
 		}
+		
 	}
 }
