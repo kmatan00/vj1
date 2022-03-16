@@ -9,6 +9,8 @@ namespace vj1
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Novo");
+            
+             Console.WriteLine("Srdačan pozdrav kolegice!");
 
         }
     }
